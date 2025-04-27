@@ -1,1 +1,1 @@
-# pingopongo100-original
+# pingo-pongo
